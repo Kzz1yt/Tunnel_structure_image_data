@@ -7,6 +7,6 @@ Notably, another type of defect, vault lining spalling (VLS), is currently under
 This project includes three types of images: 
 * raw images (see ./Images)
 * high-exposure enhanced images (see ./Exposed Images, α=2.0)
-* on-car shooting tunnel images (see ./On-car shooting).<br>
+* on-car shooting tunnel images (see ./On-car shooting).
 <br>
 For more details, please refer to yangt@stu.kust.edu.cn 
